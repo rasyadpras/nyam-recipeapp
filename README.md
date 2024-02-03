@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Proyek ini dibangun sebagai proyek akhir di kelas [Belajar Fundamental Front-End Web Development](https://www.dicoding.com/academies/163) oleh Dicoding Academy
+Proyek ini dibangun sebagai proyek akhir di kelas [Belajar Fundamental Front-End Web Development](https://www.dicoding.com/academies/163) oleh Dicoding Academy.
 
 ## Kriteria
 
